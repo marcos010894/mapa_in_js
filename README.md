@@ -2,8 +2,7 @@
 
 ![Tela do projeto](imgtela.jpg)
 
-
-Este é um projeto simples de mapa interativo usando a biblioteca Leaflet em conjunto com o OpenStreetMap. Permite que os usuários pesquisem uma localização por cidade e estado, marquem o local com um marcador e adicionem uma bolinha verde para representar o local escolhido no mapa.
+Um projeto simples de mapa interativo usando a biblioteca Leaflet em conjunto com o OpenStreetMap. Permite que os usuários pesquisem uma localização por cidade e estado, e permite marcar um local puxando assim a longitude e latitude.
 
 ## Como Usar
 
